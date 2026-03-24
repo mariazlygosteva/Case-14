@@ -1,14 +1,14 @@
-                                                                                                     Conway's Game of Life
+                                                         Conway's Game of Life
+ 
+                                                             · · · · · · ·      
+                                                             · · █ · █ · ·        
+                                                             · █ █ █ █ █ ·        
+                                                             · █ █ █ █ █ ·        
+                                                             · · █ █ █ · ·        
+                                                             · · · █ · · ·         
+                                                             · · · · · · ·          
 
-                                                                                                        · · · · · · ·      
-                                                                                                        · · █ · █ · ·        
-                                                                                                        · █ █ █ █ █ ·        
-                                                                                                        · █ █ █ █ █ ·        
-                                                                                                        · · █ █ █ · ·        
-                                                                                                        · · · █ · · ·         
-                                                                                                        · · · · · · ·          
-
-                                                                                                █ — live cell    · — dead cell
+                                                     █ — live cell    · — dead cell
 
 # Case-14
 The project was carried out by Alexey Simonov (role A: input/output and initialization and role B: game logic), Maria Fedotova (role C: mapping and role D: integration of all modules).
